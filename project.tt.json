@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "TODO-ah",
+  "description": "TODO-ah 计划管理项目",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
